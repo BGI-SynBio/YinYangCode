@@ -72,11 +72,11 @@ python
 
 If you think this repo helps or being used in your research, please consider refer this paper.
 
-[Towards practical and robust DNA-based data archiving using the yin--yang codec system](https://www.nature.com/articles/s43588-022-00231-2)
+[Towards practical and robust DNA-based data archiving using the yin-yang codec system](https://www.nature.com/articles/s43588-022-00231-2)
 
 ````
 @article{ping2022towards,
-  title={Towards practical and robust DNA-based data archiving using the yin--yang codec system},
+  title={Towards practical and robust DNA-based data archiving using the yin-yang codec system},
   author={Ping, Zhi and Chen, Shihong and Zhou, Guangyu and Huang, Xiaoluo and Zhu, Sha Joe and Zhang, Haoling and Lee, Henry H and Lan, Zhaojun and Cui, Jie and Chen, Tai and others},
   journal={Nature Computational Science},
   pages={234--242},
