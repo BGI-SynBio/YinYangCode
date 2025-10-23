@@ -84,7 +84,7 @@ def fold(motif, min_free_energy):
     process.wait()
     if process.returncode == 0:
         line = process.stdout.read().decode().split('\n')[1]
-        m = re.search("(\S+)\s+\(\s*(\S+)\)", line)
+        m = re.search(r"(\S+)\s+\(\s*(\S+)\)", line)
         if m:
             if min_free_energy > float(m.group(2)):
                 return True
